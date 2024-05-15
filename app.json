@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mikerosasdev98.AwesomeProject"
+      "package": "com.mikerosasdev98.calculatorReactNative"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "ece3eec4-5b42-4fa7-b056-e7678bd8ef83"
+        "projectId": "769ecda9-eb6a-49ef-bbd6-f2f0d3acb09a"
       }
     }
   }
